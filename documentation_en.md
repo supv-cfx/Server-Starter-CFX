@@ -16,7 +16,7 @@ set PATH_FX_SERVER=C:\Path\To\Your\FXServer
 
 ### Cache Path Configuration
 
-In the script section marked "Write your path here to the folder where you have the cache folder" `replace C:\CHANGE_PATH_HERE\cache\files` with the actual path to your server cache.
+In the script section marked "Write your path here to the folder where you have the cache folder" replace `C:\CHANGE_PATH_HERE\cache\files` with the actual path to your server cache.
 
 ```batch
 set PATH_CACHE=C:\Path\To\Your\Cache\files
