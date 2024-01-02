@@ -1,2 +1,5 @@
 # Server-Starter-CFX
-A little code in batch file to start your server with clear cache option
+
+- version: ``1.0.0``
+
+[:fr: Français Documentation](#fr-français-documentation) | [:uk: English Documentation](#uk-english-documentation)
