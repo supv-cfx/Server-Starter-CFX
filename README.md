@@ -8,7 +8,7 @@
 
 <div align='center'>
 
-  [:fr: Français Documentation](./documentation_fr.md) | [:uk: English Documentation](./documentation_en.md)
+  [:fr: Documentation Française](./documentation_fr.md) | [:uk: English Documentation](./documentation_en.md)
 </div>
 
 
@@ -18,5 +18,5 @@
 
 <div align='center'>
 
-  [:fr: Français Documentation](./documentation_fr_sh.md) | [:uk: English Documentation](./documentation_en_sh.md)
+  [:fr: Documentation Française](./documentation_fr_sh.md) | [:uk: English Documentation](./documentation_en_sh.md)
 </div>
