@@ -2,4 +2,4 @@
 
 - version: ``1.0.0``
 
-[:fr: Français Documentation](./documention_fr.md) | [:uk: English Documentation](./documention_en.md)
+[:fr: Français Documentation](./documentation_fr.md) | [:uk: English Documentation](./documentation_en.md)
